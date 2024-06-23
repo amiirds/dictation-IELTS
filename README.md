@@ -65,15 +65,6 @@ Contributions are welcome! Please follow these guidelines:
 
 Please ensure your code adheres to the project’s coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Credits
-
-- **Python**: The project is built using Python.
-- **Third-Party Libraries**: Any libraries used will be listed in the `requirements.txt` file.
-
 ## Contact
 
 For support or inquiries, please contact the project maintainers at:
